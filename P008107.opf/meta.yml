@@ -1,15 +1,16 @@
-id: opecha:P008107
+id: P008107
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00KG0545
   title: ཀུན་དཔལ་སྤྱོད་འཇུག
-  volume:
+  author: ''
+  volumes:
     90bd605c0cb54f18be62e0be6a95cdd6:
       image_group_id: I1KG20698
       title: Volume 1 of kun dpal spyod 'jug
       volume_number: 1
       total_pages: 696
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཀུན་དཔལ་སྤྱོད་འཇུག
   author: ''
